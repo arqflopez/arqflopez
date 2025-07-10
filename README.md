@@ -1,3 +1,3 @@
 <div align="center">
-  <img src ="banner-b720.svg" />
+  <img src ="banner-fer.svg" />
 </div>
